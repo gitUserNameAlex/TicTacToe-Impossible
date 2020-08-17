@@ -1,5 +1,3 @@
-//Thanks FreeCodeCamp
-
 let origBoard; //Field
 
 const huPlayer = "0"; //Player token
